@@ -22,6 +22,9 @@ If you need to run your bot 24/7 (with no downtime), you should consider using a
     * [GalaxyGate](https://galaxygate.net/)
         * New York data centre.
         * Great affiliate program.
+     * [BagelLand](https://bagel.land)
+        * Free hosting
+        * St Louis data centre
 * Global
     * [Linode](https://www.linode.com/)
     * [Digital Ocean](https://www.digitalocean.com/)
